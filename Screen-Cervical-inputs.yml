@@ -1,0 +1,87 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/screen-cervical-change---primary.py
+inputModule3:
+  class: File
+  path: python/screen-cervical-papanicolau---primary.py
+inputModule4:
+  class: File
+  path: python/screen-cervical-present---primary.py
+inputModule5:
+  class: File
+  path: python/screen-cervical-dyskaryosis---primary.py
+inputModule6:
+  class: File
+  path: python/screen-cervical-needed---primary.py
+inputModule7:
+  class: File
+  path: python/screen-cervical-result---primary.py
+inputModule8:
+  class: File
+  path: python/absent-screen-cervical---primary.py
+inputModule9:
+  class: File
+  path: python/screen-cervical-cervsmear---primary.py
+inputModule10:
+  class: File
+  path: python/screen-cervical-inflammation---primary.py
+inputModule11:
+  class: File
+  path: python/screen-cervical-cervix---primary.py
+inputModule12:
+  class: File
+  path: python/screen-cervical-vroutine---primary.py
+inputModule13:
+  class: File
+  path: python/screen-cervical-koilocytosis---primary.py
+inputModule14:
+  class: File
+  path: python/screen-cervical-transit---primary.py
+inputModule15:
+  class: File
+  path: python/screen-cervical-taken---primary.py
+inputModule16:
+  class: File
+  path: python/normal-screen-cervical---primary.py
+inputModule17:
+  class: File
+  path: python/screen-cervical-transformation---primary.py
+inputModule18:
+  class: File
+  path: python/screen-cervical-action---primary.py
+inputModule19:
+  class: File
+  path: python/screen-cervical-cytology---primary.py
+inputModule20:
+  class: File
+  path: python/screen-cervical-examination---primary.py
+inputModule21:
+  class: File
+  path: python/screen-cervical-vault---primary.py
+inputModule22:
+  class: File
+  path: python/screen-cervical-claim---primary.py
+inputModule23:
+  class: File
+  path: python/negative-screen-cervical---primary.py
+inputModule24:
+  class: File
+  path: python/screen-cervical---primary.py
+inputModule25:
+  class: File
+  path: python/screen---primary.py
+inputModule26:
+  class: File
+  path: python/nonspecific-screen-cervical---primary.py
+inputModule27:
+  class: File
+  path: python/screen-cervical-notified---primary.py
+inputModule28:
+  class: File
+  path: python/viral-screen-cervical---primary.py
+inputModule29:
+  class: File
+  path: python/output-cases.py
