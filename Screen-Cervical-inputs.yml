@@ -36,7 +36,7 @@ inputModule11:
   path: python/screen-cervical-cervix---primary.py
 inputModule12:
   class: File
-  path: python/screen-cervical-vroutine---primary.py
+  path: python/routine-screen-cervical---primary.py
 inputModule13:
   class: File
   path: python/screen-cervical-koilocytosis---primary.py

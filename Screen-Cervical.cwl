@@ -121,8 +121,8 @@ steps:
       potentialCases:
         id: potentialCases
         source: screen-cervical-inflammation---primary/output
-  screen-cervical-vroutine---primary:
-    run: screen-cervical-vroutine---primary.cwl
+  routine-screen-cervical---primary:
+    run: routine-screen-cervical---primary.cwl
     out:
     - output
     in:
@@ -142,7 +142,7 @@ steps:
         source: inputModule13
       potentialCases:
         id: potentialCases
-        source: screen-cervical-vroutine---primary/output
+        source: routine-screen-cervical---primary/output
   screen-cervical-transit---primary:
     run: screen-cervical-transit---primary.cwl
     out:
